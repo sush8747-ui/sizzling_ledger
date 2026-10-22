@@ -1,0 +1,17 @@
+# Virtual environment folder
+env/
+
+# Local env file containing secrets
+.env
+
+# SQLite DB (dev) and its backups
+db.sqlite3
+backups/
+*.sqlite3
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/

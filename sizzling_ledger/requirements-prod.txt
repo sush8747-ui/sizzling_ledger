@@ -1,0 +1,8 @@
+-r requirements.txt
+psycopg2-binary
+python-decouple
+whitenoise
+gunicorn
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
